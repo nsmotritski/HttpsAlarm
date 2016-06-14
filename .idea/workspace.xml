@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9b155d0-b0a9-4d90-a708-2b98911dd2b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Tutorial.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HttpsAlarm/com/company/URLConnectionReader.class" afterPath="$PROJECT_DIR$/out/production/HttpsAlarm/com/company/URLConnectionReader.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/URLConnectionReader.java" afterPath="$PROJECT_DIR$/src/com/company/URLConnectionReader.java" />
     </list>
     <ignored path="HttpsAlarm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="URLConnectionReader.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="URLConnectionReader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/URLConnectionReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
+            <state relative-caret-position="238">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,46 +39,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="URLConnection.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/URLConnection.java">
+      <file leaf-file-name="Tutorial.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Tutorial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11373">
-              <caret line="734" column="18" selection-start-line="734" selection-start-column="18" selection-end-line="734" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HttpURLConnection.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/HttpURLConnection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8993">
-              <caret line="569" column="38" selection-start-line="569" selection-start-column="38" selection-end-line="569" selection-end-column="38" />
+            <state relative-caret-position="238">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
               <folding>
-                <element signature="e#0#26236#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#3658#3659#0" expanded="false" />
-                <element signature="e#3685#3686#0" expanded="false" />
-                <element signature="e#9941#9942#0" expanded="false" />
-                <element signature="e#9968#9969#0" expanded="false" />
-                <element signature="e#11563#11564#0" expanded="false" />
-                <element signature="e#11587#11588#0" expanded="false" />
-                <element signature="e#13005#13006#0" expanded="false" />
-                <element signature="e#13043#13044#0" expanded="false" />
-                <element signature="e#13631#13632#0" expanded="false" />
-                <element signature="e#13689#13690#0" expanded="false" />
-                <element signature="e#14123#14124#0" expanded="false" />
-                <element signature="e#14171#14172#0" expanded="false" />
-                <element signature="e#15998#15999#0" expanded="false" />
-                <element signature="e#16027#16028#0" expanded="false" />
-                <element signature="e#21711#21712#0" expanded="false" />
-                <element signature="e#21738#21739#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,6 +73,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/URLConnectionReader.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Tutorial.java" />
       </list>
     </option>
   </component>
@@ -126,6 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -203,14 +187,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Application.URLConnectionReader">
-    <configuration default="false" name="URLConnectionReader" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Tutorial">
+    <configuration default="false" name="Tutorial" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.company.URLConnectionReader" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Tutorial" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -438,11 +420,11 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.URLConnectionReader" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Tutorial" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.URLConnectionReader" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Tutorial" />
       </list>
     </recent_temporary>
   </component>
@@ -460,6 +442,14 @@
       <option name="presentableId" value="Default" />
       <updated>1465678525559</updated>
     </task>
+    <task id="LOCAL-00001" summary="Jsoup imported successfully">
+      <created>1465832485464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1465832485464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -503,6 +493,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Jsoup imported successfully" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jsoup imported successfully" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -536,26 +530,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8993">
           <caret line="569" column="38" selection-start-line="569" selection-start-column="38" selection-end-line="569" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/URLConnectionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#26236#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3658#3659#0" expanded="false" />
-            <element signature="e#3685#3686#0" expanded="false" />
-            <element signature="e#9941#9942#0" expanded="false" />
-            <element signature="e#9968#9969#0" expanded="false" />
-            <element signature="e#11563#11564#0" expanded="false" />
-            <element signature="e#11587#11588#0" expanded="false" />
-            <element signature="e#13005#13006#0" expanded="false" />
-            <element signature="e#13043#13044#0" expanded="false" />
-            <element signature="e#13631#13632#0" expanded="false" />
-            <element signature="e#13689#13690#0" expanded="false" />
-            <element signature="e#14123#14124#0" expanded="false" />
-            <element signature="e#14171#14172#0" expanded="false" />
-            <element signature="e#15998#15999#0" expanded="false" />
-            <element signature="e#16027#16028#0" expanded="false" />
-            <element signature="e#21711#21712#0" expanded="false" />
-            <element signature="e#21738#21739#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/URLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11373">
+          <caret line="734" column="18" selection-start-line="734" selection-start-column="18" selection-end-line="734" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/HttpURLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8993">
+          <caret line="569" column="38" selection-start-line="569" selection-start-column="38" selection-end-line="569" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -585,43 +586,42 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/HttpURLConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8993">
-          <caret line="569" column="38" selection-start-line="569" selection-start-column="38" selection-end-line="569" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#26236#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3658#3659#0" expanded="false" />
-            <element signature="e#3685#3686#0" expanded="false" />
-            <element signature="e#9941#9942#0" expanded="false" />
-            <element signature="e#9968#9969#0" expanded="false" />
-            <element signature="e#11563#11564#0" expanded="false" />
-            <element signature="e#11587#11588#0" expanded="false" />
-            <element signature="e#13005#13006#0" expanded="false" />
-            <element signature="e#13043#13044#0" expanded="false" />
-            <element signature="e#13631#13632#0" expanded="false" />
-            <element signature="e#13689#13690#0" expanded="false" />
-            <element signature="e#14123#14124#0" expanded="false" />
-            <element signature="e#14171#14172#0" expanded="false" />
-            <element signature="e#15998#15999#0" expanded="false" />
-            <element signature="e#16027#16028#0" expanded="false" />
-            <element signature="e#21711#21712#0" expanded="false" />
-            <element signature="e#21738#21739#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="-459">
+          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/URLConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11373">
+        <state relative-caret-position="758">
           <caret line="734" column="18" selection-start-line="734" selection-start-column="18" selection-end-line="734" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/URLConnectionReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Tutorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
