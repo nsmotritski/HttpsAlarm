@@ -9,7 +9,7 @@ import java.io.*;
 public class Tutorial {
 //    following the tutorial on http://tutorials.jenkov.com/java-networking/sockets.html
     public static void main(String[] args) throws Exception {
-        URL url = new URL("http://jenkov.com");
+        URL url = new URL("http://wizzair.com");
 
         URLConnection urlConnection = url.openConnection();
         urlConnection.setDoOutput(true);
@@ -21,5 +21,6 @@ public class Tutorial {
             data = input.read();
         }
         input.close();
+        System.out.println(data);
     }
 }
